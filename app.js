@@ -1,4 +1,7 @@
 // Ajoutez cette ligne au début de votre fichier JS
+const response = await fetch('http://brahamizakaria.pythonanywhere.com/')
+
+
 var question = "Hello! How can I assist you today?";
 
 
